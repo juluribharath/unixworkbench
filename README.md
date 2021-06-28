@@ -2,7 +2,7 @@
 ## "guessinggame for guessing number of files in the present directory"
 
 ### "the time at which make was run"
-``` date```
+```bash [date]```
 
 #### "number of lines in the script"
- ``` wc -l < guessinggame.sh ```
+ ```bash [wc -l < guessinggame.sh]```
